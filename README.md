@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Alastor</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250"/>
-</p>
-
-<p align="center">
   I'm a passionate <strong>Developer</strong> and <strong>Data Analyst</strong> working in the field of <strong>Cybersecurity</strong>.  
   I love coding, learning new technologies, and exploring data to uncover insights.
 </p>
