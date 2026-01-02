@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Alastor</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250"/>
-</p>
-
-<p align="center">
   I'm a passionate <strong>Developer</strong> and <strong>Data Analyst</strong> working in the field of <strong>Cybersecurity</strong>.  
   I love coding, learning new technologies, and exploring data to uncover insights.
 </p>
@@ -52,7 +48,7 @@
 ## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://contribution.oooo.so/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&weeks=30&theme=green" width="800"/>
+  <img src="[https://contribution.oooo.so/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&weeks=30&theme=green" width="800](https://contribution.oooo.so/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&weeks=30&theme=green)"/>
 </p>
 
 ---
