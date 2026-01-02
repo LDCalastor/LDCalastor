@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
-  I'm a passionate <b>Developer</b> and <b>Data Analyst</b> working in the field of <b>Cybersecurity</b>.
+  I'm a passionate <strong>Developer</strong> and <strong>Data Analyst</strong> working in the field of <strong>Cybersecurity</strong>.  
   I love coding, learning new technologies, and exploring data to uncover insights.
 </p>
 
+---
 
 ## 💻 Developer Skills
 
@@ -33,6 +34,7 @@
 
 > **Note:** Lua and SQL are currently in learning progress 📚
 
+---
 
 ## 📊 Data Analyst
 
@@ -40,16 +42,23 @@
   <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="200"/>
 </p>
 
-I work as a **Data Analyst** in a **Cybersecurity company**, analyzing data, finding patterns, and helping secure systems.
-I specialize in **data visualization, analytics, and cybersecurity insights**.
-
-
 <p align="center">
-  <img src="https://contribution.oooo.so/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&weeks=30&theme=green"/>
+  I work as a <strong>Data Analyst</strong> in a <strong>Cybersecurity company</strong>, analyzing data, finding patterns, and helping secure systems.  
+  I specialize in <strong>data visualization, analytics, and cybersecurity insights</strong>.
 </p>
 
+---
+
+## 📈 GitHub Contributions
 
 <p align="center">
-  <i>“Code, analyze, learn, repeat.” 🚀</i>
+  <img src="https://contribution.oooo.so/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&weeks=30&theme=green" width="800"/>
 </p>
+
+---
+
+<p align="center">
+  <em>“Code, analyze, learn, repeat.” 🚀</em>
+</p>
+
 
