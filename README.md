@@ -52,8 +52,7 @@
 ## 📈 GitHub Contributions
 
 <p align="center">
-  <!-- Remplacez l'URL ci-dessous par le GIF exporté depuis contribution.oooo.so -->
-  <img src="https://your-uploaded-gif-link-here.gif" width="800"/>
+  <img src="LDCalastor/CatsJuice.svg" width="800"/>
 </p>
 
 ---
