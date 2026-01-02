@@ -52,7 +52,7 @@
 ## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="./assets/CatsJuice.svg" width="800"/>
+  <img src="asset/assets/CatsJuice.svg" width="800"/>
 </p>
 
 ---
