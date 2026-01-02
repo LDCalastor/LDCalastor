@@ -52,7 +52,8 @@
 ## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://contribution.oooo.so/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&weeks=30&theme=green"/>
+  <!-- Remplacez l'URL ci-dessous par le GIF exporté depuis contribution.oooo.so -->
+  <img src="https://your-uploaded-gif-link-here.gif" width="800"/>
 </p>
 
 ---
